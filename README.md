@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhay
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Big projects or Campanies
 - 📫 How to reach me through Twitter..@SparkyZod
 
